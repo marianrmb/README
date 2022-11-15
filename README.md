@@ -4,4 +4,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Marian for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by  [Marian](https://github.com/marianrmb) for the Lighthouse Labs Web Development Bootcamp.
